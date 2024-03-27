@@ -1,1 +1,1 @@
-This is my official submission for  Fetch Rewards Android Internship Take Home Assesment.
+This is my official submission for  Fetch Rewards Android Internship Take Home Assessment.
