@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fetch Rewards</string>
+    <string name="intro">Welcome to Fetch Rewards Demo!</string>
+    <string name="subtitle">Click the button below to view the list</string>
+    <string name="fetchBtnText">Fetch Data</string>
+    <string name="field1">Field1</string>
+    <string name="field2">Field2</string>
+    <string name="field3">Field3</string>
+</resources>
